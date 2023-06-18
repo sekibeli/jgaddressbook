@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "jgaddressbook": {
+      "hosting": {
+        "jgaddressbook": [
+          "jgaddressbook"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "jgaddressbook"
+  }
+}
